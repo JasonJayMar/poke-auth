@@ -1,0 +1,29 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url("https://img00.deviantart.net/7b58/i/2010/125/6/6/pokeball__free_background__by_scribblin.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#login{
+height: 300px;
+width: 56%;
+float: right;
+background-image: url("https://static.comicvine.com/uploads/square_medium/11128/111281189/5128818-150mewtwo_ag_anime.png");
+background-repeat: no-repeat;
+background-size: cover;
+margin-right: -40%;
+}
+
+img{
+  height: 200px;
+}
+#cel{
+  height: 300px;
+  width: 56%;
+  float: right;
+  margin-right: -58%;
+}
+#mainPage{
+  color: yellow;
+}
